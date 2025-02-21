@@ -1,22 +1,18 @@
-Welcome to Lumache's documentation!
+CEO Lê Quốc Trí – Nhà Lãnh Đạo Chiến Lược của FB88
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`Lê Quốc Trí <https://fb88.gay/le-quoc-tri>`_ là CEO của FB88, một trong những nền tảng chơi game trực tuyến hàng đầu hiện nay. Với tầm nhìn chiến lược và kinh nghiệm dày dặn trong lĩnh vực công nghệ và giải trí trực tuyến, ông đã góp phần đưa FB88 trở thành thương hiệu uy tín, phủ sóng tại hơn 90 quốc gia. 
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Dưới sự dẫn dắt của ông, FB88 không ngừng cải tiến dịch vụ, nâng cao trải nghiệm người dùng và đảm bảo một môi trường chơi game an toàn, minh bạch. Nhờ vào sự lãnh đạo tài tình của Lê Quốc Trí, FB88 ngày càng khẳng định vị thế của mình trên thị trường quốc tế.
 
-.. note::
+Thông tin liên hệ: 
 
-   This project is under active development.
+Địa chỉ: 118A Bình Giã, Phường 13, Tân Bình, Hồ Chí Minh 70000, Việt Nam. 
 
-Contents
---------
+Phone: 0366951213. 
 
-.. toctree::
+Email: ceolequoctri@fb88.gay. 
 
-   usage
-   api
+Website: https://fb88.gay/le-quoc-tri 
+
+#lequoctri #ceolequoctri #ceolequoctri_fb88
